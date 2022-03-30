@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tonkomisko
+- 👋 Hi, I’m Tony -> @tonkomisko
 - 👀 I’m interested in all things technical, design and architecture
 - 🌱 I’m currently learning vanilla Javascript, then moving on to Angular. I also play around with Python
 - 💞️ I’m looking to collaborate on Angular and Python automation projects
